@@ -1,1 +1,3 @@
 ## 🌏 Hey everyone and welcome! My name is Kenneth Barnes Jr AKA "Kenny"!👋
+
+I’m currently a AWS Cloud Engineer @ SAIC ☁️🛩️ with a solid background in cloud infrastructure, DevSecOps, and technical support. I work well under pressure and enjoy solving complex problems, whether it’s troubleshooting, managing accounts, or resolving incidents from start to finish. I’m skilled in using tools like Terraform🏗️, Ansible⚙️, and JFrog Artifactory🪣 to streamline processes, and I’m experienced with networking, VPNs, and secure cloud environments. Known for my teamwork and clear communication, I’m committed to providing effective solutions and ensuring customer satisfaction. I’m always eager to learn new technologies and look forward to take on new challenges in the cloud space.
